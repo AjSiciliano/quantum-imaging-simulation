@@ -1,8 +1,8 @@
 # Quantum Imaging Simulation
 
-This is a replication of the key methodologies and results from [^1]. 
+This is a replication of the key methodologies and results from Ref. [^1]. 
 
-Relevant background information can be found in [^2], [^3], [^4], and [^5].
+Relevant background information can be found in Ref. [^2], Ref. [^3], Ref. [^4], and Ref. [^5].
 
 ---
 

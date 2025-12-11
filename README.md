@@ -1,6 +1,8 @@
 # Quantum Imaging Simulation
 
-This is a replication of the key methodologies and results from [^1]. Relevant background information can be found in [^2], [^3], [^4], and [^5].
+This is a replication of the key methodologies and results from [^1]. 
+
+Relevant background information can be found in [^2], [^3], [^4], and [^5].
  
 [^1] Lee, K. K., Gagatsos, C. N., Guha, S. & Ashok, A. Quantum-inspired multi-parameter adaptive Bayesian
 estimation for sensing and imaging. IEEE Journal of Selected Topics in Signal Processing 17, 491–501

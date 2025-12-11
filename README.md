@@ -15,7 +15,7 @@ Communications of the ACM 15, 820–826 (1972).
 IEEE Transactions on Information Theory 17, 240–246 (1971).
 
 [^4]: Helstrom, C. W. The minimum variance of estimates in quantum signal detection. IEEE Trans. Inf.
-Theory 14, 234–242. https://doi.org/10.1109/TIT.1968.1054108 (1968).
+Theory 14, 234–242 (1968).
 
 [^5]: Rubio, J. & Dunningham, J. Bayesian multiparameter quantum metrology with limited data. Physical
 Review A 101, 032114 (2020).

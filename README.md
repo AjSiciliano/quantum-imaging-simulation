@@ -1,6 +1,6 @@
 # Simulation of Quantum Imaging
 
-This is a replication of the key methodologies and results from Ref. [^1].
+This is a replication of the key methodologies and results from [^1].
 
 ## Background
 

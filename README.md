@@ -1,4 +1,4 @@
-# Basic quantum imaging simulation
+# Quantum Imaging Simulation
 
 This is a replication of the key methodologies and results from [^1].
 
